@@ -25,7 +25,7 @@ schema_view = get_schema_view(
         title="Auth API",
         default_version='v1',
         description="Auth Service API",
-        terms_of_service="https://www.google.com/policies/terms/",
+        terms_of_service="",
         contact=openapi.Contact(email="parthij15@gmail.com"),
         license=openapi.License(name="Apache License"),
     ),
